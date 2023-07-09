@@ -30,9 +30,9 @@
 3. Как создать React-приложение?
 
 *Последовательность команд:*
-npm install react
-npm install -g create-react-app
-create-react-app appName
+- npm install react
+- npm install -g create-react-app
+- create-react-app appName
 
 
 
@@ -42,10 +42,10 @@ React не является фреймворком – он даже не рас
 
  А какие ещё есть веб-фронтенд фреймворки?
 
- Angular.js
- Vue.js
- Ember.js
- jQuery
+ - Angular.js
+ - Vue.js
+ - Ember.js
+ - jQuery
 
 
 
